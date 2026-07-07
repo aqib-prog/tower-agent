@@ -1,0 +1,13 @@
+REGIONAL POLICIES - TELECOM TOWER LEASE REGULATIONS
+
+DXB-North Zone:
+- Maximum equipment height allowed on any structure is 45 meters.
+- No single tenant asset may exceed 100kg in weight.
+
+SHJ-South Zone:
+- Due to the ocean, no single tenant asset may exceed 15kg.
+- Maximum equipment height allowed on any structure is 30 meters.
+
+SHJ-Coastal Zone:
+- Due to wind-load factors near the ocean, no single tenant asset may exceed 25kg.
+- Maximum equipment height allowed on any structure is 35 meters.
