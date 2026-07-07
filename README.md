@@ -7,8 +7,8 @@ An autonomous AI agent that vets incoming telecom tower lease requests from mobi
           
 2. Ollama (llama3.1) extracts structured data
 
-3.1 Tool 1: Lookup tower → towers_inventory.json
-3.2 Tool 2: Get policies → regional_policies.txt
+3.1 Tool 1: Lookup tower  towers_inventory.json
+3.2 Tool 2: Get policies  regional_policies.txt
 
 4. Ollama judges using Chain-of-Thought prompting
 
